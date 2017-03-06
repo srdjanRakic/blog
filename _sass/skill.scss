@@ -94,6 +94,9 @@
        &.cSharp {
         &:after {  content:'C#';  }
       }
+      &.typescript {
+        &:after {  content:'TypeScript';  }
+      }
       &.mysql {
         &:after {
           content: 'MySQL';

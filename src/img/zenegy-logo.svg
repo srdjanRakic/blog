@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50"
+   height="50"
+   viewBox="0 0 50 50"
+   id="svg4508"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Zenegy-Logo-Grey.svg">
+  <defs
+     id="defs4510" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="25.678786"
+     inkscape:cy="44.449991"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4513">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1002.3622)">
+    <g
+       transform="matrix(0.06704859,0,0,0.05431336,-2.4007217,999.01151)"
+       id="g4491">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4214"
+         style="fill:#879396;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 195.48,948 c -52.86582,0.1092 -99.80817,-33.78476 -116.34,-84 -17.40648,-50.421 -0.467292,-106.323 42,-138.6 l 546,-435.54 c 25.767,-19.572 35.3766,-53.8923 23.52,-84 -9.5886,-29.8515 -37.527,-49.95522 -68.88,-49.56 l -426.3,0 c -32.04558,-0.0643 -60.20868,21.22974 -68.88,52.08 -11.85786,30.1077 -2.24826,64.428 23.52,84 l 68.88,52.5 c 10.91412,8.75658 12.78396,24.6498 4.2,35.7 -8.60496,10.86204 -24.36546,12.73818 -35.28,4.2 l -68.88,-54.6 C 77.519766,297.41832 61.474716,241.8519 79.14,192 95.67183,141.78556 142.61418,107.89202 195.48,108 l 425.04,0 c 53.0208,-0.29026 100.1784,33.63793 116.76,84 17.4048,50.42226 0.4662,106.32132 -42,138.6 l -546,435.54 c -25.76826,19.572 -35.3779,53.89436 -23.52,84 9.58818,29.8536 37.52868,49.9548 68.88,49.56 l 425.88,0 c 31.353,0.3948 59.2914,-19.7064 68.88,-49.56 11.8566,-30.10564 2.247,-64.428 -23.52,-84 l -70.56,-56.28 c -10.9158,-8.757 -12.7848,-24.6498 -4.2,-35.7 8.6058,-10.8612 24.3642,-12.7386 35.28,-4.2 l 70.56,56.28 c 42.4662,32.277 59.40476,88.179 42,138.6 -16.5816,50.36224 -63.7392,84.28976 -116.76,84 L 195.48,948 Z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4218"
+         style="fill:#879396;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 148.44,587.22 c -7.71162,-0.0294 -14.98476,-3.591 -19.74,-9.66 -8.58396,-11.0502 -6.71412,-26.943 4.2,-35.7 l 294,-235.62 -112.14,0 c -14.03346,0 -25.41,-11.37654 -25.41,-25.41 0,-14.03346 11.37654,-25.41 25.41,-25.41 l 168,0 c 13.7256,0.0202 25.9056,8.81496 30.24,21.84 4.5822,13.04646 0.3612,27.56292 -10.5,36.12 l -336,268.38 c -5.06436,4.1286 -11.55546,6.0942 -18.06,5.46 z" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4222"
+         style="fill:#879396;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 332.4,797.22 c -13.7277,-0.021 -25.90518,-8.8158 -30.24,-21.84 -5.20086,-13.4106 -0.92232,-28.6398 10.5,-37.38 l 336,-268.38 c 10.9158,-8.53818 26.6742,-6.66204 35.28,4.2 8.5848,11.0502 6.7158,26.94342 -4.2,35.7 l -294,235.62 103.32,0 c 14.0322,0 25.41,11.3778 25.41,25.41 0,14.0322 -11.3778,25.40996 -25.41,25.40996 L 332.4,797.22 Z" />
+    </g>
+  </g>
+</svg>
